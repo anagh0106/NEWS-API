@@ -1,0 +1,6 @@
+This app is made by class base Component
+npm install --save-dev ajv@^7 
+
+
+
+rcc is a command of class base Component
